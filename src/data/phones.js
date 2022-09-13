@@ -358,4 +358,20 @@ export const phones = [{
     "memory": "16GB, 32GB and RAM 1 GB",
     "id": 23,
     "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur!"
+},
+{
+    "title": "Huawei Mate 20 Lite Dual Sim 64 GB (İthalatçı Garantili)",
+    "category": "phone",
+    "images": ["https://productimages.hepsiburada.net/s/21/280-413/9933217792050.jpg?v1", "https://productimages.hepsiburada.net/s/21/280-413/9933217660978.jpg?v1", "https://productimages.hepsiburada.net/s/21/280-413/9933217693746.jpg?v1", "https://productimages.hepsiburada.net/s/21/280-413/9933217726514.jpg?v1"],
+    "brand": "huawei",
+    "price": 2693.4407990587074,
+    "cpu": "1.3GHz Apple A6",
+    "camera": "8mp (3264x2448)",
+    "size": "124.4mm x 59.2mm x 8.97mm (4.9 x 2.33 x 0.35)",
+    "weight": "132 grams (4.7 ounces) with battery",
+    "display": "4.0 326 pixel density",
+    "battery": "1480 mAh",
+    "memory": "16GB, 32GB and RAM 1 GB",
+    "id": 23,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur!"
 }]
